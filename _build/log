@@ -1,0 +1,16 @@
+# dune exec problems
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/aiden/.cache/dune/db
+# Workspace root: /Users/aiden/problems
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/aiden/.opam/default/bin/ocamlc.opt -config > /var/folders/1h/lrkhq_c903z2pzlf5_gy65vm0000gp/T/dune_67676f_output
